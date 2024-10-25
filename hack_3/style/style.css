@@ -1,0 +1,43 @@
+:root{
+    --bg-blue: #93B5C9
+    --bg-wine: #AB2849
+} 
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.blue{
+    background-color: #93B5C9;
+    height: 200px;
+}
+
+.red1{
+    background-color: #AB2849;
+    height: 400px;
+}
+
+.red2{
+    background-color: #AB2849;
+    height: 200px;
+}
+
+.red3{
+    background-color: #AB2849;
+    height: 200px;
+    width: 100%;
+    margin-right: 20px;
+}
+
+.red4{
+    background-color: #AB2849;
+    height: 200px;
+    width: 100%;
+}
+
+.red5{
+    background-color: #AB2849;
+    height: 100px;
+    margin-top: 20px;
+}
